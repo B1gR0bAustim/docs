@@ -1,6 +1,6 @@
 ---
 title: Your account and profile on GitHub
-shortTitle: Account and profile
+shortTitle: bigrobinaustin page
 intro: You can manage the settings for your user account, your profile and contributions graph, and your notifications.
 versions:
   fpt: '*'
